@@ -12,7 +12,7 @@ An end-to-end industrial automation project integrating **Classic Motor Control*
 
 ### 2. Custom PCB Design
 * **Software:** Proteus Designer
-* **Features:** 24V-to-5V Isolation Board using Optocouplers (PC817) and LM7805 Voltage Regulation with Transient Protection.
+* **Features:** 24V Isolation Board using Optocouplers (PC817) and LM7805 Voltage Regulation with Transient Protection.
 
 ### 3. PLC Logic & Automation
 * **Software:** Siemens TIA Portal
